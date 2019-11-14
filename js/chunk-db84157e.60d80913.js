@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-db84157e"],{"0d5c":function(n,t,e){"use strict";e.r(t);var o=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"footer"},[n._v("\n  © 2019 川ICP备 12003892号-11 成都元素科技技术支持\n")])},s=[],c=(e("48d7"),e("2877")),i={},r=Object(c["a"])(i,o,s,!1,null,"1da782f0",null);r.options.__file="res-footer.vue";t["default"]=r.exports},1421:function(n,t,e){},"48d7":function(n,t,e){"use strict";var o=e("1421"),s=e.n(o);s.a}}]);
+//# sourceMappingURL=chunk-db84157e.60d80913.js.map
